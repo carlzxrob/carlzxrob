@@ -75,10 +75,10 @@
 
   <h3>📊 GitHub Stats</h3>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/carlzxrob/github-readme-stats">
       <img height="150" src="https://github-readme-stats.vercel.app/api?username=carlzxrob&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/carlzxrob/github-readme-stats">
       <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlzxrob&layout=compact&hide_border=true&bg_color=00000000" alt="Top Langs" />
     </a>
   </p>
