@@ -1,49 +1,82 @@
 <div align="center">
-  
-  <h1 style="border-bottom: none;">Hola, soy <a href="https://github.com/TU_USUARIO" target="_blank">Tu Nombre</a> 👋</h1>
-  
-  <p><strong>Full Stack Developer | React & Node.js Enthusiast</strong></p>
+
+  <h1 style="border-bottom: none;">Hola, soy <a href="https://github.com/TU_USUARIO" target="_blank">Roberto Berrio</a> 👨‍💻</h1>
+  <p><strong>Full Stack Developer | React & Node.js Specialist</strong></p>
   
   <p>
-    Desarrollador apasionado por crear soluciones web escalables y la integración de hardware/software.<br>
-    Actualmente enfocado en sistemas de gestión y aplicaciones IoT.
+    Creo soluciones de software robustas, desde sistemas de facturación complejos hasta interfaces de usuario intuitivas.<br>
+    Enfocado en la escalabilidad, bases de datos SQL y arquitectura limpia.
   </p>
 
   <br />
 
-  <table>
+  <table width="100%" style="border: none;">
     <tr>
-      <td align="left" width="50%">
-        <h3>🔭 Trabajando en</h3>
-        <ul>
-          <li><strong>Hotel Web Check-in System:</strong> Plataforma para gestión de huéspedes.</li>
-          <li><strong>IoT Energy Monitor:</strong> Sistema de monitoreo con ESP32 y sensores PZEM.</li>
-        </ul>
+      <td width="50%" valign="top" align="center">
+        <h3 align="center">⚡ Tech Stack</h3>
+        <div align="center">
+            <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+            <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+            <br/>
+            <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+            <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express"/>
+            <br/>
+            <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+            <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
+        </div>
       </td>
-      <td align="left" width="50%">
-        <h3>🚀 Stack Tecnológico</h3>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Config" />
-          <img src="https://img.shields.io/badge/Hardware-333333?style=flat-square&logo=arduino&logoColor=white" alt="Hardware" />
-        </p>
+      <td width="50%" valign="top" align="center">
+        <h3 align="center">🛠 Herramientas & Intereses</h3>
+        <div align="center">
+             <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+             <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+             <br/>
+             <img src="https://img.shields.io/badge/Arduino_ESP32-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT" />
+             <img src="https://img.shields.io/badge/Hardware-333333?style=for-the-badge&logo=intel&logoColor=white" alt="Hardware" />
+        </div>
       </td>
     </tr>
   </table>
 
   <br />
 
+  <h3>📂 Portafolio de Proyectos</h3>
+  <table width="100%">
+    <thead>
+      <tr>
+        <th width="50%">Sistemas & Gestión</th>
+        <th width="50%">APIs & Web Apps</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td valign="top">
+          <ul>
+            <li><strong>📄 Sistema de Facturación Electrónica:</strong> Solución completa para emisión de comprobantes fiscales.</li>
+            <li><strong>🏨 Sistema de Gestión de Reservas:</strong> Control de disponibilidad y booking para hotelería.</li>
+            <li><strong>🛠 Sistema de Gestión de Mantenimientos:</strong> Trazabilidad y control de reparaciones.</li>
+          </ul>
+        </td>
+        <td valign="top">
+          <ul>
+            <li><strong>🔌 API de Facturación Electrónica:</strong> Backend robusto para integración con servicios externos.</li>
+            <li><strong>✈️ WebCheck-in:</strong> Interfaz ágil para el registro de usuarios/huéspedes.</li>
+            <li><strong>📅 Calendario de Eventos:</strong> Aplicación interactiva para scheduling y organización.</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <br />
+
   <p align="center">
-    <a href="mailto:tuemail@ejemplo.com">
-      <img src="https://img.shields.io/badge/Contactame-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <br/>
-    <small>Diseñado con código limpio</small>
+    <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=buefy&hide_border=true&bg_color=00000000" alt="Stats" height="130" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=buefy&hide_border=true&bg_color=00000000" alt="Languages" height="130" />
+  </p>
+
+  <p align="center">
+    <small>Contacto: <a href="mailto:tuemail@gmail.com">robertocarlosberrio@gmail.com</a></small>
   </p>
 
 </div>
