@@ -73,13 +73,10 @@
 
   <br />
 
-  <h3>📊 GitHub Stats</h3>
+  <h3>📊 Actividad en GitHub</h3>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="150" src="https://github-readme-stats.vercel.app/api?username=carlzxrob&show_icons=true&theme=dark&hide_border=true" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlzxrob&layout=compact&theme=dark&hide_border=true" />
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlzxrob&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
     </a>
   </p>
 
